@@ -1,24 +1,15 @@
 # vue3-demo
 
-## Project setup
+## 项目安装、启动
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
-```
-
-### Compiles and minifies for production
-```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 项目介绍
+> 做一个类似于图册的网站ovo。
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- 用到选项式、组合式的API编写方式
+- 用到封装组件
+- 用到状态路由
