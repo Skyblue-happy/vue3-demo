@@ -1,5 +1,7 @@
 # vue3-demo
 
+## 项目预览[地址](https://skyblue-happy.github.io/vue3-demo/dist/index.html)
+
 ## 项目安装、启动
 ```
 npm install
